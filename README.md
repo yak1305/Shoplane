@@ -1,5 +1,7 @@
 ShopLane ECommerce Website
+
 This project is a sample eCommerce website built using HTML, CSS, and JavaScript. It includes features such as product listings, product detail pages, a shopping cart, and an order placement page.
+
 
 -> Features
 
